@@ -1,4 +1,4 @@
-🌌💙 Welcome to Deeksha Mane's Blue Cosmos 💙🌌
+<h1 align="center">🌌💙 Welcome to Deeksha Mane's <span style="color:#1DA1F2">Blue Cosmos</span> 💙🌌</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=BLUE%20COSMOS&fontAlign=50&fontAlignY=40&color=0e153a&textBg=true&fontSize=60&fontColor=6a90e3&desc=Where+Magic+and+Code+Collide!&descAlign=50&descAlignY=70&descSize=24" alt="Blue Cosmos Banner"/>
