@@ -42,7 +42,7 @@
 
 > Explore my journey and milestones in detail:
 >
-> - 🌟 [See my Achievements Repository](#)  
+> - 🌟 [See my Achievements Repository](https://github.com/Deeksha-Mane/CERTIFICATIONS)  
 > - 🚦 [Dive into the DSA Nebula Repository](#)
 
 ---
