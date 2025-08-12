@@ -1,4 +1,4 @@
-<h1 align="center">🌌💙 Welcome to Deeksha Mane's <span style="color:#1DA1F2">Blue Cosmos</span> 💙🌌</h1>
+<h1 align="center">🌌💙 Welcome to <span style="color:#1DA1F2">Blue Cosmos</span> 💙🌌</h1>
 
 <!--
 <p align="center">
