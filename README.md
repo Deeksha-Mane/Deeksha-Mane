@@ -67,20 +67,43 @@
 
 ---
 -->
+
+
+
 ## 🌌 Deeksha's Blue Cosmos Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeksha-Mane&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeksha-Mane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Deeksha-Mane&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deeksha-Mane&theme=midnight-purple&hide_border=true&bg_color=0D1117&color=009FFD&line=009FFD&point=ffffff" />
 </div>
 
----
+<!-- Stats Grid -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Deeksha-Mane&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B9D&border_radius=15" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeksha-Mane&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=15" /></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Contribution Graph with styling -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deeksha-Mane&custom_title=✨%20DEEKSHA'S%20CONTRIBUTION%20CONSTELLATION%20✨&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=FFFFFF&area=true&area_color=00D9FF&title_color=00D9FF&height=300" width="100%" />
+</div>
+
+<br>
+
+<!-- Language Stats & Metrics -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha-Mane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=15" /></td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deeksha-Mane&theme=radical&utcOffset=5.5" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deeksha-Mane&label=Cosmic+Visitors&color=004e92&style=flat-square" />
