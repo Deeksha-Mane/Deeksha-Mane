@@ -44,7 +44,7 @@
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,react,nodejs,express,git,github,mysql,vscode&theme=light" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,bootstrap,react,nodejs,express,postgresql,mongodb,git,github,vscode&theme=light" alt="Skill Icons" />
 </p>
 
 ---
