@@ -36,9 +36,9 @@
 
 ```diff
 + Languages:        C | C++ | Java | JavaScript 
-+ Frontend:         HTML | CSS | Bootstrap | React.js
++ Frontend:         HTML | CSS | Tailwind CSS | Bootstrap | React.js 
 + Backend:          Node.js | Express.js
-+ Database:         SQL
++ Database:         PostgreSQL | MongoDB
 + Tools:            Git | GitHub | VS Code
 + CS Core:          DSA | OOP | OS | CN | DBMS
 ```
