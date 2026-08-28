@@ -20,8 +20,8 @@
 
 > “In the Blue Cosmos, every algorithm is a constellation, every bug a black hole to conquer, and every solution a new star.”
 
-- 👩‍💻 **CSE Explorer | Third Year**
-- 🌌 **Full Stack Developer | DSA Alchemist | AI Whisperer**
+- 👩‍💻 **CSE Explorer | Fourth Year**
+- 🌌 **Full Stack Developer | DSA Alchemist**
 - ✨ **Poetess of the Infinite Blue**
 - 🦋 **Believer in the rare, the magical, and the infinite**
 
